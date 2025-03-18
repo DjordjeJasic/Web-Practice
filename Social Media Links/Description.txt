@@ -1,0 +1,14 @@
+	Social Links Profile
+
+This project is a simple web page that displays a profile with basic information and links to social media accounts.
+
+	Technologies Used
+HTML: Page structure
+CSS: Styling and layout
+Google Fonts: Using the Inter font
+Frontend Mentor: Design inspiration
+
+	Features
+Displays a profile picture, name, location, and a short user description
+Contains buttons linking to social media platforms
+Styled with a dark theme and hover effects on buttons
