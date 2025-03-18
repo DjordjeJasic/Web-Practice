@@ -12,3 +12,4 @@ Frontend Mentor: Design inspiration
 Displays a profile picture, name, location, and a short user description
 Contains buttons linking to social media platforms
 Styled with a dark theme and hover effects on buttons
+Live link: https://djordjejasic.github.io/Web-Practice/
